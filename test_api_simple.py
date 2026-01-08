@@ -206,8 +206,8 @@ def main():
     parser.add_argument(
         "--host",
         type=str,
-        default="http://127.0.0.1:58811",
-        help="API 服务地址 (默认: http://127.0.0.1:58811)",
+        default="http://10.10.99.98:58811",
+        help="API 服务地址 (默认: http://10.10.99.98:58811)",
     )
     
     args = parser.parse_args()
