@@ -26,7 +26,7 @@ except ImportError:
 
 
 # API 配置
-API_HOST = "http://127.0.0.1:58811"
+API_HOST = "http://10.10.99.98:58811"
 API_ENDPOINT = "/layout-parsing"
 
 
